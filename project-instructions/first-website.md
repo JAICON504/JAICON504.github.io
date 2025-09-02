@@ -768,8 +768,7 @@ After completing this TODO, your `<nav>` section should look like this:
    
    .nav-li {
        display: inline-block;
-       padding: 0 10px;
-   }
+       padding: 0 10px   }
    
    a {
        text-decoration: none;

@@ -1,0 +1,29 @@
+body {
+    background: rgb(125, 198, 205);
+    color: rgb(45, 45, 45);
+    padding: 10px;
+    font-family: Arial, sans-serif;
+}
+{
+    max-width: 800px;
+    margin: auto;
+}
+nav {
+    background: rgb(239, 80, 41);
+    margin: 0 auto;
+    display: flex;
+    padding: 10px;
+}
+h1 {
+    display: flex;
+    align-items: center;
+    color: white;
+    flex: 1;
+    margin: 0;
+}
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
